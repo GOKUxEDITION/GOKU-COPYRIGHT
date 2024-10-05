@@ -50,7 +50,7 @@ NYKAA = [
 ]
 
 
-start_txt = """<b> ❖ ʜɪɪ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ !\n━━━━━━━━━━━━━━━━━━━━━━\n\n● ɪ ᴀᴍ ɢʀᴏᴜᴘ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ᴄᴏᴘʏʀɪɢʜᴛ ʙᴏᴛ.\n● ɪ ʜᴀᴠᴇ ɢʀᴏᴜᴘ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ғᴇᴀᴛᴜʀᴇs.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ʀ ᴏ ʏ - ᴇ ᴅ ɪ ᴛ x ࿐ </b>"""
+start_txt = """<b> ❖ ʜɪɪ ʙᴀʙʏ, ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ᴜʜʜ !\n━━━━━━━━━━━━━━━━━━━━━━\n\n● ɪ ᴀᴍ ɢʀᴏᴜᴘ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ᴄᴏᴘʏʀɪɢʜᴛ ʙᴏᴛ.\n● ɪ ʜᴀᴠᴇ ɢʀᴏᴜᴘ ᴘʀᴏᴛᴇᴄᴛɪᴏɴ ғᴇᴀᴛᴜʀᴇs.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ GOKU🇽Edition࿐ </b>"""
 
 @app.on_message(filters.command("start"))
 async def start(_, msg):
@@ -76,16 +76,16 @@ async def start(_, msg):
 
 gd_buttons = [              
         [
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/roy_editx"),
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/THE_FRIENDZ"),    
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/EditionServerSupport"),
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/EditionServer_Support"),    
         ]
         ]
 # ------------------------------------------------------------------------------- #
 
 ROY_BTN = [              
         [
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/the_friendz"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/roy_editx"),    
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/EditionServerSupport"),
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/EditionServer_Support"),    
         ]
 ]
 # ------------------------------------------------------------------------------- #
@@ -129,7 +129,7 @@ ABOUT_STRING = """**❖ ɪ ʜᴀᴠᴇ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ɢʀ�
 
 # -------------------------------------------------------------------------------------
 
-HELP_STRING = """**❖ ᴏᴡɴᴇʀ/sᴜᴅᴏ ᴜsᴇʀ ᴄᴍᴅs ⏤͟͟͞͞★\n\n● /bcast ➥ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀɴʏ ᴍᴇssᴀɢᴇ.\n● /announce ➥ ʀᴇᴘʟʏ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀɴɴᴏᴜɴᴄᴇ.\n\n❖ ᴀʟʟ ᴜsᴇʀs  ᴄᴏᴍᴍᴀɴᴅs ⏤͟͟͞͞★\n\n● /start ➥ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.\n● /ping ➥ ᴄʜᴋ ʙᴏᴛ ᴘɪɴɢ sᴛᴀᴛs.\n● /repo ➥ ɢᴇᴛ ʙᴏᴛ ʀᴇᴘᴏ.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥  ʀ ᴏ ʏ - ᴇ ᴅ ɪ ᴛ x ࿐**"""
+HELP_STRING = """**❖ ᴏᴡɴᴇʀ/sᴜᴅᴏ ᴜsᴇʀ ᴄᴍᴅs ⏤͟͟͞͞★\n\n● /bcast ➥ ʙʀᴏᴀᴅᴄᴀsᴛ ᴀɴʏ ᴍᴇssᴀɢᴇ.\n● /announce ➥ ʀᴇᴘʟʏ ᴀɴʏ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀɴɴᴏᴜɴᴄᴇ.\n\n❖ ᴀʟʟ ᴜsᴇʀs  ᴄᴏᴍᴍᴀɴᴅs ⏤͟͟͞͞★\n\n● /start ➥ sᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ.\n● /ping ➥ ᴄʜᴋ ʙᴏᴛ ᴘɪɴɢ sᴛᴀᴛs.\n● /repo ➥ ɢᴇᴛ ʙᴏᴛ ʀᴇᴘᴏ.\n\n❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ GOKU🇽Edition ࿐**"""
 
 # ------------------------------------------------------------------------------- #
 
@@ -153,14 +153,14 @@ REPO_STRING = """**
 
 ● ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴄᴏᴘʏʀɪɢʜᴛ sʜɪᴇʟᴅ ʙᴏᴛ ⚡ ʀᴇᴘᴏ, ᴛʜᴇɴ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʙᴜᴛᴛᴏɴ ᴛᴏ ɢᴇᴛ ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ.
 
-❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥ ʀ ᴏ ʏ - ᴇ ᴅ ɪ ᴛ x ❅
+❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➥GOKU🇽Edition❅
 """
 
 @app.on_message(filters.command("repo"))
 async def start(_, msg):
     REPO_BTN = [
         [
-          InlineKeyboardButton("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/tinaarobot/COPYRIGHT"),
+          InlineKeyboardButton("sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://t.me/GOKUxEDITION"),
           ],
     ]
     
